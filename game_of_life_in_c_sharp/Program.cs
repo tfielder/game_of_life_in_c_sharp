@@ -8,7 +8,7 @@ namespace game_of_life_in_c_sharp
         {
             Console.WriteLine("Welcome to the Game of Life in C#!");
             Console.WriteLine("The game of life was originally developed by John Conway in 1970.");
-            //Console.WriteLine("Type the m key to see the menu at anytime.");
+            Console.WriteLine("Type the m key to see the menu at anytime.");
             //Console.WriteLine("How big would you like the gameboard to be? Choose a number between 3 and 25.");
             //do
             //{
