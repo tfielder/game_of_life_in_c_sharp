@@ -5,6 +5,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "game_of_life_in_c_sharp", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSuiteGameOfLife", "TestSuiteGameOfLife\TestSuiteGameOfLife.csproj", "{E3A64F6F-2F69-44BE-AC74-6F422F5E0804}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5345673E-89DF-461B-892A-3056D307B1C4}"
+	ProjectSection(SolutionItems) = preProject
+		PullRequestTemplate.md = PullRequestTemplate.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
