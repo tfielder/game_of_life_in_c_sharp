@@ -52,7 +52,6 @@
     <None Include="packages.config" />
     <None Include="NLog.xsd" />
     <None Include="NLog.config" />
-    <None Include="PullRequestTemplate.md" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
